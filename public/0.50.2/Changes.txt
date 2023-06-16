@@ -1,3 +1,4 @@
+0.50.1 -> 0.50.2
 'Locale$$GetText' has new offset: 0x5ff390 (New) vs 0x16e23e0 (Old)
 'SR$$Format' has new offset: 0x11b5e90 (New) vs 0x1a5a3c0 (Old)
 'SR$$Format' has new offset: 0x11b5e90 (New) vs 0x1a5a430 (Old)
